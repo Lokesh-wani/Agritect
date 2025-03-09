@@ -1,2 +1,2 @@
-# Agritect
-Agritect is an innovative agricultural technology platform designed to provide farmers and agricultural enthusiasts with essential information, tools, and resources to improve productivity and sustainability in farming. The website offers educational materials, interactive tutorials, and communication features to support the agricultural community
+# Agritech
+Agritect Website – Revolutionizing Agriculture with Technology 🌾🚀 Agritect is an agriculture technology (AgriTech) website designed to empower farmers, agribusinesses, and researchers with cutting-edge digital solutions. It bridges the gap between technology and traditional farming, making agriculture more efficient, profitable, and sustainable.
